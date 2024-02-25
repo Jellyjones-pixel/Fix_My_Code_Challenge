@@ -29,7 +29,3 @@ ARGV.each do |arg|
 end
 
 puts result
-/*John Mbithi
-jellyjones-pixel
-johnmbithimutave@gmail.com
-*/

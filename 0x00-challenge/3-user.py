@@ -101,7 +101,3 @@ password")
     if user_2.is_valid_password("No pwd"):
         print("is_valid_password should return False if no password set \
 before")
-/*John Mbithi
-jellyjones-pixel
-johnmbithimutave@gmail.com
-*/
